@@ -5,12 +5,14 @@
 
 ### Projects
 
-| 저장소 | 분야 | 한 줄 요약 |
-|---|---|---|
-| [system-trading](https://github.com/1Useok/system-trading) | 주문·체결 시스템 | KIS Open API 기반 KOSPI200 선물 이벤트 드리븐 트레이딩 시스템. 주문 관리(OMS), 체결 통보 처리, WebSocket 재연결·상태 복구, 리스크 킬 스위치, 테스트 47개 |
-| [order-latency-bench](https://github.com/1Useok/order-latency-bench) | 저지연 | 같은 업비트 주문을 Python과 C++로 구현해 단계별 지연을 측정. 서명 p50 25.1µs → 2.6µs, 로컬 왕복 752µs → 51µs |
-| [quant-research-portfolio](https://github.com/1Useok/quant-research-portfolio) | 퀀트 리서치 | 뉴스 텍스트, 기관 수급, 공적분, JKP 기업특성 ML, Portfolio-ML(구현 가능한 효율적 프런티어) 등 15개 연구. 7개는 합성 데이터로 바로 실행되고 CI로 검증 |
-| [data-pipeline](https://github.com/1Useok/data-pipeline) | 데이터 엔지니어링 | KRX·KIS 시장 데이터를 Airflow로 매일 수집해 백테스트용 Parquet으로 적재하고 품질 게이트로 검증. 테스트 119개 |
+- **[system-trading](https://github.com/1Useok/system-trading)** · 주문·체결 시스템  
+  KIS Open API 기반 KOSPI200 선물 이벤트 드리븐 트레이딩 시스템. 주문 관리(OMS), 체결 통보 처리, WebSocket 재연결·상태 복구, 리스크 킬 스위치, 테스트 47개
+- **[order-latency-bench](https://github.com/1Useok/order-latency-bench)** · 저지연  
+  같은 업비트 주문을 Python과 C++로 구현해 단계별 지연을 측정. 서명 p50 25.1µs → 2.6µs, 로컬 왕복 752µs → 51µs
+- **[quant-research-portfolio](https://github.com/1Useok/quant-research-portfolio)** · 퀀트 리서치  
+  뉴스 텍스트, 기관 수급, 공적분, JKP 기업특성 ML, Portfolio-ML(구현 가능한 효율적 프런티어) 등 15개 연구. 7개는 합성 데이터로 바로 실행되고 CI로 검증
+- **[data-pipeline](https://github.com/1Useok/data-pipeline)** · 데이터 엔지니어링  
+  KRX·KIS 시장 데이터를 Airflow로 매일 수집해 백테스트용 Parquet으로 적재하고 품질 게이트로 검증. 테스트 119개
 
 ### Experience
 
